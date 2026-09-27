@@ -14,6 +14,13 @@ answer per line.
 g++ -O2 -std=c++20 -o solution problems/eulerNNN/solution.cpp && ./solution < input.txt
 ```
 
+## Methods workshop
+
+An interactive 3D walkthrough of the 60 solving methods catalogued in [`memory-bank/`](memory-bank/):
+each method plays out as problem → idea → solution → comparison → properties, in English or Russian.
+
+Open it: <https://hedgehogues.github.io/project-euler/methods-lab/> (source: [`methods-lab/`](methods-lab/)).
+
 ## Problems
 
 | # | Problem | Status |
